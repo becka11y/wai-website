@@ -55,6 +55,9 @@ This decision tree describes how to use the `alt` attribute of the `<img>` eleme
 {% include box.html type="end" %}
 {:/}
 
+## Instructions
+Consider the type and purpose of the image as you answer the questions below and navigate through the decision tree. For example, an image may contain text and also contribute meaning to the content. For this reason it is important to review all of the questions before making the final decision on the `alt` attribute.   
+
 - **Does the image contain text?**
   - {:.yes} **Yes:**
     -   **… and the text is also present as *real* text nearby.**
